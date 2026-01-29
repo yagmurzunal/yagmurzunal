@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yagmurzunal
 - I'm a freshman at Bilkent University
-- 👀 I’m interested in traveling
 - 🌱 I’m currently learning java
 
 
